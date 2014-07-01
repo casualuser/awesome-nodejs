@@ -16,9 +16,14 @@ A curated list of astonishing Node.js frameworks, libraries and resources. Inspi
 
 *Libraries for generating project documentation.*
 
+* [Docco](http://jashkenas.github.io/docco/) - Docco is a quick-and-dirty documentation generator, written in Literate CoffeeScript.
+* [Groc](https://github.com/nevir/groc) - Documentation generation, in the spirit of literate programming.
+
 ## Package Management
 
 *Libraries for package and dependency management.*
+
+* [Npm](https://www.npmjs.org/) - Default package manager. Installs, publishes and manages node programs.
 
 ## Database Drivers
 
@@ -28,9 +33,17 @@ A curated list of astonishing Node.js frameworks, libraries and resources. Inspi
 
 *Libraries that implement Object-Relational Mapping or datamapping techniques.*
 
+* [Sequelize](http://sequelizejs.com/) - Sequelize library provides easy access to MySQL, MariaDB, SQLite or PostgreSQL databases.
+* [Node-orm2](https://github.com/dresende/node-orm2) - Another Relational Object Mapper.
+
 ## Web Frameworks
 
 *Web development frameworks.*
+
+* [Express](http://expressjs.com/) -  A minimal and flexible node.js web application framework.
+* [Flatiron](http://flatironjs.org/) - An adaptable framework for building modern web applications.
+* [Koa](http://koajs.com/) - A framework which aims to be a smaller, more expressive, and more robust foundation for web applications.
+* [Totaljs](http://www.totaljs.com/) - Friendly responsive design web application framework for node.
 
 ## RESTful API
 
@@ -43,6 +56,9 @@ A curated list of astonishing Node.js frameworks, libraries and resources. Inspi
 ## Template Engine
 
 *Libraries and tools for templating and lexing.*
+
+* [Jade](http://jade-lang.com/) - Handful node template engine.
+* [Swig](http://paularmstrong.github.io/swig/) - A simple, powerful, and extendable JavaScript Template Engine.
 
 # Contributing
 
