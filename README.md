@@ -49,6 +49,9 @@ A curated list of astonishing Node.js frameworks, libraries and resources. Inspi
 
 *Libraries for developing RESTful APIs.*
 
+* [Sails](http://sailsjs.org) - MVC framework which generates a RESTful JSON API.
+* [Node-restify](http://mcavage.me/node-restify/) - A node.js module built specifically to build correct REST web services.
+
 ## Authentication and OAuth
 
 *Libraries for implementing authentications schemes.*
