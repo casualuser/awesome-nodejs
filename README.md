@@ -1,4 +1,4 @@
-# Awesome Python
+# Awesome Node.js
 
 A curated list of astonishing Node.js frameworks, libraries and resources. Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
